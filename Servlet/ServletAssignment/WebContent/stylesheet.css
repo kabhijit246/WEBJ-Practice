@@ -1,0 +1,12 @@
+@font-face{
+    font-family: lato;
+    src: url(Lato-Regular.ttf);
+}
+*{
+   font-family: lato;
+}
+.border-10{
+    border-left-style: solid;
+    border-color: forestgreen;
+    border-left-width: 10px;
+}
